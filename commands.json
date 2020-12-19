@@ -1,0 +1,2326 @@
+{
+    "off": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "10,black",
+        "isStrawberry": false
+    },
+    "red": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "60,red",
+        "isStrawberry": false
+    },
+    "orange": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "60,orange",
+        "isStrawberry": false
+    },
+    "pink": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "60,pink",
+        "isStrawberry": false
+    },
+    "yellow": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,yellow",
+        "isStrawberry": false
+    },
+    "green": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "60,green",
+        "isStrawberry": false
+    },
+    "cyan": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "60,cyan",
+        "isStrawberry": false
+    },
+    "blue": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "60,blue",
+        "isStrawberry": false
+    },
+    "purple": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "60,purple",
+        "isStrawberry": false
+    },
+    "white": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "60,white",
+        "isStrawberry": false
+    },
+    "red-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "50,red,black",
+        "isStrawberry": false
+    },
+    "orange-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "50,orange,black",
+        "isStrawberry": false
+    },
+    "pink-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "50,pink,black",
+        "isStrawberry": false
+    },
+    "yellow-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,yellow,black",
+        "isStrawberry": false
+    },
+    "green-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,green,black",
+        "isStrawberry": false
+    },
+    "cyan-50": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "50,cyan,black",
+        "isStrawberry": false
+    },
+    "blue-50": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,blue,black",
+        "isStrawberry": false
+    },
+    "purple-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,purple,black",
+        "isStrawberry": false
+    },
+    "white-50": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "50,white,black",
+        "isStrawberry": false
+    },
+    "red-60": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,red,black",
+        "isStrawberry": false
+    },
+    "orange-60": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,orange,black",
+        "isStrawberry": false
+    },
+    "pink-60": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,pink,black",
+        "isStrawberry": false
+    },
+    "yellow-60": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,yellow,black",
+        "isStrawberry": false
+    },
+    "green-60": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,green,black",
+        "isStrawberry": false
+    },
+    "cyan-60": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,cyan,black",
+        "isStrawberry": false
+    },
+    "blue-60": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,blue,black",
+        "isStrawberry": false
+    },
+    "purple-60": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "60,purple,black",
+        "isStrawberry": false
+    },
+    "white-60": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,white,black",
+        "isStrawberry": false
+    },
+    "three hearts": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "55,pink,yellow,cyan",
+        "isStrawberry": false
+    },
+    "kawaii": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "80,pink,pink,pink,red",
+        "isStrawberry": false
+    },
+    "nakayoku": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "65,yellow,yellow,yellow,green",
+        "isStrawberry": false
+    },
+    "omoiyari": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "80,cyan,cyan,cyan,yellow",
+        "isStrawberry": false
+    },
+    "dark fast": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "100,purple,blue",
+        "isStrawberry": false
+    },
+    "dark slow": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "50,purple,blue",
+        "isStrawberry": false
+    },
+    "誰でもが持ってる": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "80,white,white,white,green",
+        "isStrawberry": false
+    },
+    "you believe": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "50,pink,yellow,cyan",
+        "isStrawberry": false
+    },
+    "rainbow": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "100,red,orange,pink,yellow,green,cyan,blue,purple",
+        "isStrawberry": false
+    },
+    "miracle gift": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "50,red,orange,pink,yellow,green,cyan,blue,purple",
+        "isStrawberry": false
+    },
+    "0-01212121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "65,red,red,red,green",
+        "isStrawberry": false
+    },
+    "2-03212121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "50,red,green",
+        "isStrawberry": false
+    },
+    "4-01412121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "50,purple,blue",
+        "isStrawberry": false
+    },
+    "6-03412121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "8-01232121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "10-03232121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "10,black",
+        "isStrawberry": true
+    },
+    "12-01432121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "100,red,orange,pink,yellow,green,cyan,blue,purple",
+        "isStrawberry": true
+    },
+    "14-03432121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "65,white,white,white,green",
+        "isStrawberry": false
+    },
+    "16-01214121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "18-03214121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "65,cyan,cyan,cyan,yellow",
+        "isStrawberry": false
+    },
+    "20-01414121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "65,pink,pink,pink,red",
+        "isStrawberry": false
+    },
+    "22-03414121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "24-01234121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "60,pink,yellow,green,cyan,blue,purple,red,orange",
+        "isStrawberry": false
+    },
+    "26-03234121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "28-01434121": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "30-03434121": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750
+        ],
+        "pattern": "10,blue",
+        "isStrawberry": false
+    },
+    "32-01212321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "34-03212321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "80,cyan,cyan,cyan,yellow",
+        "isStrawberry": true
+    },
+    "36-01412321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,green",
+        "isStrawberry": false
+    },
+    "38-03412321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "40-01232321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "80,pink,pink,pink,red",
+        "isStrawberry": true
+    },
+    "42-03232321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,purple",
+        "isStrawberry": true
+    },
+    "44-01432321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,cyan",
+        "isStrawberry": false
+    },
+    "46-03432321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "48-01214321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "50-03214321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,orange",
+        "isStrawberry": false
+    },
+    "52-01414321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,yellow",
+        "isStrawberry": true
+    },
+    "54-03414321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "56-01234321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,blue",
+        "isStrawberry": true
+    },
+    "58-03234321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,red",
+        "isStrawberry": false
+    },
+    "60-01434321": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "62-03434321": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750
+        ],
+        "pattern": "10,pink",
+        "isStrawberry": false
+    },
+    "64-01212141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "66-03212141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "10,white",
+        "isStrawberry": false
+    },
+    "68-01412141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "70-03412141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "10,green",
+        "isStrawberry": true
+    },
+    "72-01232141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "10,cyan",
+        "isStrawberry": true
+    },
+    "74-03232141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "10,orange",
+        "isStrawberry": true
+    },
+    "76-01432141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "78-03432141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "65,blue,blue,blue,yellow",
+        "isStrawberry": false
+    },
+    "80-01214141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "80,blue,blue,blue,yellow",
+        "isStrawberry": false
+    },
+    "82-03214141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "84-01414141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "50,pink,yellow,cyan",
+        "isStrawberry": false
+    },
+    "86-03414141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "88-01234141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "50,cyan,black",
+        "isStrawberry": false
+    },
+    "90-03234141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "55,pink,yellow,cyan",
+        "isStrawberry": false
+    },
+    "92-01434141": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "94-03434141": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750
+        ],
+        "pattern": "65,pink,pink,pink,yellow",
+        "isStrawberry": false
+    },
+    "96-01212341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "75,pink,pink,pink,yellow",
+        "isStrawberry": false
+    },
+    "98-03212341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "10,black",
+        "isStrawberry": false
+    },
+    "100-01412341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,pink,pink,cyan",
+        "isStrawberry": false
+    },
+    "102-03412341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "60,pink,pink,cyan",
+        "isStrawberry": false
+    },
+    "104-01232341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,blue,black",
+        "isStrawberry": false
+    },
+    "106-03232341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "108-01432341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "10,red",
+        "isStrawberry": true
+    },
+    "110-03432341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,purple,black",
+        "isStrawberry": false
+    },
+    "112-01214341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "114-03214341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,green,black",
+        "isStrawberry": false
+    },
+    "116-01414341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "65,yellow,yellow,yellow,white",
+        "isStrawberry": false
+    },
+    "118-03414341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "50,yellow,black",
+        "isStrawberry": false
+    },
+    "120-01234341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "122-03234341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "10,pink",
+        "isStrawberry": true
+    },
+    "124-01434341": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "10,black",
+        "isStrawberry": false
+    },
+    "126-03434341": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750
+        ],
+        "pattern": "65,white,white,white,red",
+        "isStrawberry": false
+    },
+    "128-01212123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "65,yellow,yellow,yellow,green",
+        "isStrawberry": false
+    },
+    "130-03212123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "95,red,green",
+        "isStrawberry": false
+    },
+    "132-01412123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "10,white",
+        "isStrawberry": true
+    },
+    "134-03412123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "60,yellow,black",
+        "isStrawberry": true
+    },
+    "136-01232123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "138-03232123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "50,orange,black",
+        "isStrawberry": false
+    },
+    "140-01432123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "142-03432123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "10,purple",
+        "isStrawberry": false
+    },
+    "144-01214123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "60,purple,black",
+        "isStrawberry": false
+    },
+    "146-03214123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "148-01414123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "150-03414123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "100,red,orange,pink,yellow,green,cyan,blue,purple",
+        "isStrawberry": false
+    },
+    "152-01234123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "50,red,orange,pink,yellow,green,cyan,blue,purple",
+        "isStrawberry": false
+    },
+    "154-03234123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "60,orange,black",
+        "isStrawberry": true
+    },
+    "156-01434123": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "100,purple,blue",
+        "isStrawberry": false
+    },
+    "158-03434123": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250
+        ],
+        "pattern": "60,red,orange,pink,yellow,green,cyan,blue,purple",
+        "isStrawberry": false
+    },
+    "160-01212323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "10,yellow",
+        "isStrawberry": false
+    },
+    "162-03212323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "164-01412323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,red,black",
+        "isStrawberry": true
+    },
+    "166-03412323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,yellow,black",
+        "isStrawberry": false
+    },
+    "168-01232323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,white,black",
+        "isStrawberry": false
+    },
+    "170-03232323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "172-01432323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,green,black",
+        "isStrawberry": true
+    },
+    "174-03432323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "80,red,red,red,green",
+        "isStrawberry": false
+    },
+    "176-01214323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "100,yellow,green,cyan,blue,purple,red,orange,pink",
+        "isStrawberry": false
+    },
+    "178-03214323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,red,green",
+        "isStrawberry": false
+    },
+    "180-01414323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "182-03414323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "60,purple,blue",
+        "isStrawberry": false
+    },
+    "184-01234323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "186-03234323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "80,yellow,yellow,yellow,white",
+        "isStrawberry": false
+    },
+    "188-01434323": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "80,white,white,white,green",
+        "isStrawberry": false
+    },
+    "190-03434323": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250
+        ],
+        "pattern": "100,pink,yellow,green,cyan,blue,purple,red,orange",
+        "isStrawberry": false
+    },
+    "192-01212143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,cyan,black",
+        "isStrawberry": true
+    },
+    "194-03212143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "80,cyan,cyan,cyan,yellow",
+        "isStrawberry": false
+    },
+    "196-01412143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "50,pink,yellow,green,cyan,blue,purple,red,orange",
+        "isStrawberry": false
+    },
+    "198-03412143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "80,pink,pink,pink,red",
+        "isStrawberry": false
+    },
+    "200-01232143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "202-03232143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "204-01432143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,orange,pink,yellow,green,cyan,blue,purple,red",
+        "isStrawberry": false
+    },
+    "206-03432143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "50,orange,pink,yellow,green,cyan,blue,purple,red",
+        "isStrawberry": false
+    },
+    "208-01214143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,blue,black",
+        "isStrawberry": false
+    },
+    "210-03214143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "212-01414143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "214-03414143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "50,red,black",
+        "isStrawberry": false
+    },
+    "216-01234143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,green,black",
+        "isStrawberry": false
+    },
+    "218-03234143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "60,pink,yellow,cyan",
+        "isStrawberry": true
+    },
+    "220-01434143": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "222-03434143": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250
+        ],
+        "pattern": "50,pink,black",
+        "isStrawberry": false
+    },
+    "224-01212343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "226-03212343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "65,yellow,yellow,yellow,green",
+        "isStrawberry": true
+    },
+    "228-01412343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "230-03412343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,cyan,black",
+        "isStrawberry": false
+    },
+    "232-01232343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,orange,black",
+        "isStrawberry": false
+    },
+    "234-03232343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "236-01432343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "238-03432343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,red,black",
+        "isStrawberry": false
+    },
+    "240-01214343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "10,black",
+        "isStrawberry": false
+    },
+    "242-03214343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,pink,black",
+        "isStrawberry": true
+    },
+    "244-01414343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,white,black",
+        "isStrawberry": true
+    },
+    "246-03414343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "60,pink,black",
+        "isStrawberry": false
+    },
+    "248-01234343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19000,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "250-03234343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19000,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "50,white,black",
+        "isStrawberry": false
+    },
+    "252-01434343": {
+        "signalFrequency": [
+            18500,
+            18750,
+            19500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    },
+    "254-03434343": {
+        "signalFrequency": [
+            18500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250,
+            19500,
+            19250
+        ],
+        "pattern": "",
+        "isStrawberry": false
+    }
+}
