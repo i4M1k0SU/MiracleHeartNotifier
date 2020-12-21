@@ -23,6 +23,8 @@ type Commands = {
 
 const commands: Commands = JSON5.parse(fs.readFileSync('./commands.json', 'utf8'));
 
+// play(generate(commands.test.signalFrequency, 2));
+
 // 制御用信号を先に生成しておく
 const notificationSignal = generate(commands[COLOR_PATTERN].signalFrequency, DEFAULT_LENGTH);
 const offSignal = generate(commands.off.signalFrequency, DEFAULT_LENGTH);

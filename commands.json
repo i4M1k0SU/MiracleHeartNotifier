@@ -1,4 +1,19 @@
 {
+    // for test
+    "test": {
+        "signalFrequency": [
+            261.626,
+            293.665,
+            329.628,
+            349.228,
+            391.995,
+            440,
+            493.883,
+            523.251
+        ],
+        "pattern": "C4,D4,E4,F4,A4,B4,C5",
+        "isStrawberry": false
+    },
     "off": {
         "signalFrequency": [
             18500,

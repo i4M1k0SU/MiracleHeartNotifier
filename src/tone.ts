@@ -40,7 +40,6 @@ const generate = (frequencies: number[], lengthSecond: number): Int16Array => {
             toneArray.push(0);
         }
     });
-    console.log(toneArray.length / SAMPLE_RATE);
 
     return Int16Array.from(toneArray);
 };
